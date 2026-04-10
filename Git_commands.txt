@@ -1,0 +1,12 @@
+## Git command for noticing all (.)  changes that are made.
+
+git add .
+
+## saves a snapshot of your changes with a message.
+
+git commit -m "Describe the change"
+
+## Push to GitHub: uploads your commit to GitHub.
+
+git push origin main
+
