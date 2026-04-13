@@ -2,3 +2,8 @@
 *.pyo
 __pycache__/
 *.csv
+*.parquet
+
+# Ignoring the first Script
+CC_Fraud_detection.ipynb
+

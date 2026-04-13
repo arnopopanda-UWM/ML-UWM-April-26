@@ -2,6 +2,10 @@
 
 git add .
 
+## specific file upload
+
+git add CC_Fraud_detection.ipynb
+
 ## saves a snapshot of your changes with a message.
 
 git commit -m "Describe the change"
@@ -10,3 +14,10 @@ git commit -m "Describe the change"
 
 git push origin main
 
+## Showing shich files are modified/deleted
+
+git status
+
+## Unstage ALL staged files
+
+git reset
