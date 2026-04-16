@@ -4,7 +4,9 @@ __pycache__/
 *.csv
 *.parquet
 
-# Ignoring the first Script
-CC_Fraud_detection.ipynb
-
+# Ignoring the first Script versions
 Git_commands.txt
+CC_Fraud_detection.ipynb
+CC_Fraud_v2_test_data_run.ipynb
+CC_Fraud_v2.ipynb
+
