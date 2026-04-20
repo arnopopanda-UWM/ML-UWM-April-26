@@ -18,6 +18,10 @@ git push origin main
 
 git status
 
+## Unstage specific files
+
+git restore --staged RandomForest_Alternative.py
+
 ## Unstage ALL staged files
 
 git reset
